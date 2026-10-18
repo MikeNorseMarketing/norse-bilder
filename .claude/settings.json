@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node .claude/skills/bilder/scripts/oppsett.mjs:*)",
+      "Bash(node .claude/skills/bilder/scripts/hent-merkevare.mjs:*)",
+      "Bash(node .claude/skills/bilder/scripts/lag-bilder.mjs:*)",
+      "Bash(node .claude/skills/bilder/scripts/sjekk-tekst.mjs:*)",
+      "Bash(npm install:*)",
+      "Bash(npx playwright install:*)",
+      "WebSearch",
+      "WebFetch"
+    ]
+  }
+}

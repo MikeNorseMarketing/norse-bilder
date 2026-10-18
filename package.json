@@ -1,0 +1,14 @@
+{
+  "name": "norse-bilder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gratis /bilder-skill for Claude Code. Lager ferdige innlegg til Instagram og Facebook i merkevaren din.",
+  "license": "CC-BY-NC-4.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "playwright": "^1.64.1"
+  }
+}
